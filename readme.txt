@@ -37,6 +37,9 @@ Still in the WordPress dashboard, navigate to "Appearance" -> "Create Block Them
 
 == Changelog ==
 
+= 1.2.2 = 
+Add capabilities and nonce checks (#118)
+
 = 1.2.1 = 
 Correcting version number
 
